@@ -1,0 +1,157 @@
+.master {
+    position: absolute;
+    width: 100% !important;
+    height: 100% !important;
+    overflow: hidden;
+    left: 0px;
+    top: 0px;
+
+}
+
+.bg4 {
+    position: absolute;
+    background-repeat: no-repeat;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+}
+
+.pic6 {
+    position: absolute;
+    top: 0%;
+    left: 27%;
+    width: 20%;
+    overflow: hidden;
+    height: 89%;
+}
+
+.pic7 {
+    position: absolute;
+    top: 1%;
+    left: 58%;
+    width: 20%;
+    overflow: hidden;
+    height: 89%;
+}
+
+.refbtn2 {
+    position: absolute;
+    top: 91%;
+    right: 17.4%;
+    width: 4%;
+    height: 6%;
+    cursor: pointer;
+}
+
+.pp2 {
+    position: absolute;
+    display: none;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.exitbtn2 {
+    position: absolute;
+    top: 11%;
+    right: 13.7%;
+    width: 4.8%;
+    height: 8%;
+    cursor: pointer;
+}
+
+.plusbtn3 {
+    position: absolute;
+    top: 50%;
+    left: 42.6%;
+    width: 2.3%;
+    height: 5.1%;
+    cursor: pointer;
+}
+
+.minbtn3 {
+    position: absolute;
+    top: 42.7%;
+    left: 20.1%;
+    width: 2.6%;
+    height: 3.3%;
+    cursor: pointer;
+}
+
+.plusbtn4 {
+    position: absolute;
+    top: 35%;
+    left: 60.6%;
+    width: 2.4%;
+    height: 5%;
+    cursor: pointer;
+}
+
+.minbtn4 {
+    position: absolute;
+    top: 29%;
+    left: 77.2%;
+    width: 2.8%;
+    height: 3.3%;
+    cursor: pointer;
+}
+
+.ppp3 {
+    position: absolute;
+    display: none;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 90%;
+    height: 75%;
+}
+
+.ppp4 {
+    position: absolute;
+    display: none;
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 90%;
+    height: 75%;
+}
+
+.p1 {
+    position: absolute;
+    bottom: 3%;
+    left: 20%;
+    width: 11%;
+    height: 6%;
+    cursor: pointer;
+}
+
+.p3 {
+    position: absolute;
+    bottom: 3%;
+    left: 45.5%;
+    width: 11%;
+    height: 6%;
+    cursor: pointer;
+}
+
+.p4 {
+    position: absolute;
+    bottom: 3%;
+    left: 57.3%;
+    width: 11%;
+    height: 6%;
+    cursor: pointer;
+}
+
+.p5 {
+    position: absolute;
+    bottom: 3%;
+    left: 69%;
+    width: 11%;
+    height: 6%;
+    cursor: pointer;
+}
